@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Todo } from '../todo/todo.model';
 import { CommonModule } from '@angular/common';
 import { TodoComponent } from '../todo/todo.component';
